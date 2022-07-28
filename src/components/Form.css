@@ -16,3 +16,33 @@
         border: 2px solid rgba(26, 59, 88, 0.24);
         border-radius: 65px;
 }
+.signup__content {
+    position: absolute;
+    width: 114px;
+    height: 26px;
+    left: 919px;
+    top: 216px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 101.1%;
+    /* or 26px */
+    color: rgba(26, 59, 88, 0.33);
+}
+.login__content {
+    position: absolute;
+    width: 77px;
+    height: 26px;
+    left: 819px;
+    top: 216px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 101.1%;
+    /* or 26px */
+    color: #1A3B58;
+}
